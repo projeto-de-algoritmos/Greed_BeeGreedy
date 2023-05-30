@@ -6,24 +6,26 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 20/0014447  |  André Corrêa da Silva |
-| xx/xxxxxx  |  Felipe Candido de Moura |
+| 20/0030469  |  Felipe Candido de Moura |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resoluções de questões de juizes online (atCoder, codeforces), foram seis questões resolvidas no total.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Em cada pasta de questões possui seu enunciado, código e print da submissão no juiz online.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+É necessário apenas um compilador C++ para rodar os códigos.
+
+## Uso
+Para se utilizar os codigos, deve-se compilar eles com o g++ com as seguintes flags:
+    
+    g++ nome_arquivo.cpp -o nome_arquivo -O2 -Wall
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Questões muito interessantes e com temas divertidos.
 
 
 
