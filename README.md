@@ -27,6 +27,8 @@ Para se utilizar os codigos, deve-se compilar eles com o g++ com as seguintes fl
 ## Outros 
 Questões muito interessantes e com temas divertidos.
 
+## Link da gravação
 
+[video de apresentação](https://unbbr-my.sharepoint.com/:v:/g/personal/200014447_aluno_unb_br/EQhk65kJ9hJFvlKfoR7lazMBY5Rc4uTYKC5aPfC3v_y5Ng?e=a2Pm5H)
 
 
