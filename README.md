@@ -29,6 +29,8 @@ Questões muito interessantes e com temas divertidos.
 
 ## Link da gravação
 
-[video de apresentação](Video/Apresentacao_Trab3)
+Para a vizualização do vídeo, baixe as duas partes e extraie ambas em um mesmo diretório.
+
+[Video de Apresentação](Video/)
 
 
